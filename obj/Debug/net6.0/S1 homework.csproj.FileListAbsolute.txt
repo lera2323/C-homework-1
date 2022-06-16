@@ -1,0 +1,15 @@
+/Users/mas/S1 homework/obj/Debug/net6.0/S1 homework.csproj.AssemblyReference.cache
+/Users/mas/S1 homework/obj/Debug/net6.0/S1 homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mas/S1 homework/obj/Debug/net6.0/S1 homework.AssemblyInfoInputs.cache
+/Users/mas/S1 homework/obj/Debug/net6.0/S1 homework.AssemblyInfo.cs
+/Users/mas/S1 homework/obj/Debug/net6.0/S1 homework.csproj.CoreCompileInputs.cache
+/Users/mas/S1 homework/bin/Debug/net6.0/S1 homework
+/Users/mas/S1 homework/bin/Debug/net6.0/S1 homework.deps.json
+/Users/mas/S1 homework/bin/Debug/net6.0/S1 homework.runtimeconfig.json
+/Users/mas/S1 homework/bin/Debug/net6.0/S1 homework.dll
+/Users/mas/S1 homework/bin/Debug/net6.0/S1 homework.pdb
+/Users/mas/S1 homework/obj/Debug/net6.0/S1 homework.dll
+/Users/mas/S1 homework/obj/Debug/net6.0/refint/S1 homework.dll
+/Users/mas/S1 homework/obj/Debug/net6.0/S1 homework.pdb
+/Users/mas/S1 homework/obj/Debug/net6.0/S1 homework.genruntimeconfig.cache
+/Users/mas/S1 homework/obj/Debug/net6.0/ref/S1 homework.dll
